@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#nav{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    width: 100%;
+    background-color: #131926;
+}
+#nav>article{
+    height: 40px;
+    width: 90%;
+    background-color:#131926;
+    display: flex;
+    align-items: center;
+
+}
+#nav>article>#menubar>img{
+    height: 14px;
+    width: 14px;
+
+}
+#nav>article>#tv{
+    color: white;
+}
+#nav>article>#movies{
+    color: white;
+}
+#nav>article>#sports{
+    color: white;
+}
+#nav>article>#disney{
+    color: white;
+}
+#nav>article>.space{
+    width: 450px;
+
+}
+#nav>article>.search{
+    border: 0;
+    background-color: none;
+    
+}
+#nav>article>.search>input{
+    border: none;
+    background-color: #131926;
+    
+    outline: none;
+}
+
+
+#nav>article>.subs{
+
+   background-color: aquamarine;
+    
+}
+/* #nav>article>.button>h5{
+    color: red;
+    font-size: 1000px;
+} */
+
+
+#nav>article>.login{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: medium;
+}

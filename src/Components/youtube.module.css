@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(109, 192, 240);
+}
+#nav>article{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+#nav>article>.bar1{
+    height: 70px;
+    width: 80px;
+    border: 1px solid red ;
+    padding: 10px;
+    margin-left: -100px;
+    margin-top: -20px;
+}
+#nav>article>.bar1>i{
+   font-size: 20px;
+    color: red;
+    padding: 10px;
+}
+#nav>article>.logo1{
+    border: 1px solid red;
+    margin-left: -120px;
+    margin-top: -30px;
+    display: flex;
+    align-items: center;
+}
+#nav>article>.logo1>img{
+    height: 50px;
+    
+}
+#nav>article>.logo1>h5{
+    text-transform: uppercase;
+    margin-top: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* #nav>article>.space1{
+    width: 30px;
+} */
+#nav>article>.searchbarr{
+    height: 50px;
+    width: 550px;
+    border: 1px dotted red;
+    margin-top: -30px;
+    display: flex;
+    align-items: center;
+   
+
+}
+#nav>article>.searchbarr>input{
+    height: 40px;
+    width: 550px;
+    border: 1px solid black;
+    border-radius: 35px;
+    background-color: rgb(109, 192, 240);
+    padding: 10px 15px;
+    
+
+}
+/* #nav>article>.searchbarr>input>::placeholder{
+    color: aqua;
+} */
+
+#nav>article>.searchbarr>i{
+
+    margin-left: -40px;
+}
+#nav>article>.mic1{
+    border: 1px dotted red;
+    height: 50px;
+    width: 50px;
+    margin-left: -70px;
+    margin-top: -5px;
+
+    
+} 
+#nav>article>.mic1>i{
+    font-size: 25px;
+   
+  
+}
+#nav>article>.icon1{
+    margin-right: -50px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+#nav>article>.icon2{
+    margin-right: -50px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+#nav>article>.profileimgg>img{
+    margin-top: -20px;
+    margin-right: -70px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}

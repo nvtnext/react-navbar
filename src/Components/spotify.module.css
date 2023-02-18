@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#nav{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+#nav > article{
+    height: 80px;
+    width: 90%;
+   
+    display: flex;
+
+}
+#nav>article>.logo{
+    height: 80px;
+    width: 50%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+
+}
+#nav>article>.menu{
+    height: 80px;
+    width: 50%;
+    background-color: black;
+    
+    
+
+}
+
+#nav>article>.logo>svg{
+    width: 25%;
+    fill: white;
+
+}
+
+#nav>article>.menu>ol{
+    height: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-top: 30px;
+
+}
+#nav>article>.menu>ol>li>a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
