@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-navbar/static/css/main.e54fbc26.css",
+    "main.js": "/react-navbar/static/js/main.3f809ea6.js",
+    "static/media/myntra-Logo-PNG_zqavvs.png": "/react-navbar/static/media/myntra-Logo-PNG_zqavvs.4088d63fc97ffbe02d42.png",
+    "static/media/pngfind.com-youtube-subscribe-png-2981353.png": "/react-navbar/static/media/pngfind.com-youtube-subscribe-png-2981353.782d146e1d47a0685c2c.png",
+    "static/media/PngItem_12080.png": "/react-navbar/static/media/PngItem_12080.64a0d895e5f0098d5422.png",
+    "static/media/download-1.svg": "/react-navbar/static/media/download-1.8b9b07f2df4f8f0d721762363e71d143.svg",
+    "static/media/wynk-seeklogo.com.svg": "/react-navbar/static/media/wynk-seeklogo.com.63d6a8d306b98acf7f12d9ca6628b589.svg",
+    "static/media/ZEE5_logo.svg": "/react-navbar/static/media/ZEE5_logo.46ede060a29a0a09923bd2d021f734ff.svg",
+    "static/media/download.svg": "/react-navbar/static/media/download.b27c58ca81a4f74a1f31bc3901941880.svg",
+    "static/media/bubbles-dktp.svg": "/react-navbar/static/media/bubbles-dktp.7728cd85bae791cf2abd5f62e4ad9487.svg",
+    "static/media/tcssearch.svg": "/react-navbar/static/media/tcssearch.7b9d646f53fe0c84bd5e205814193c6a.svg",
+    "index.html": "/react-navbar/index.html",
+    "main.e54fbc26.css.map": "/react-navbar/static/css/main.e54fbc26.css.map",
+    "main.3f809ea6.js.map": "/react-navbar/static/js/main.3f809ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54fbc26.css",
+    "static/js/main.3f809ea6.js"
+  ]
+}
